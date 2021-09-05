@@ -12,7 +12,7 @@ O Hiring Coders é um programa de capacitação gratuito e sem pré-requisitos, 
 
 Abaixo segue uma lista com todos os repositórios dos projetos desenvolvidos durante o Hiring Coders #2, promovido pela VTEX e pela Gama Academy.
 
-<div style="height: 80px"></div>
+<p>&nbsp;</p><p>&nbsp;</p>
 
 
 ## Módulo React
@@ -21,7 +21,7 @@ Projeto desenvolvido durante o módulo de aulas React.js.
 
 [Detalhes no repositório](https://github.com/andreLTMoraes/react-hiring-coders)
 
-<div style="height: 80px"></div>
+<p>&nbsp;</p><p>&nbsp;</p>
 
 <img src="https://i.ibb.co/T2GLsBG/Garagem1973.gif" alt="demo" width="400">
 
@@ -31,7 +31,7 @@ Landing page de um e-commerce.
 
 [Detalhes no repositório](https://github.com/andreLTMoraes/garagem1973)
 
-<div style="height: 80px"></div>
+<p>&nbsp;</p><p>&nbsp;</p>
 
 <img src="https://i.ibb.co/PmgXzLg/garagem1973-admin.gif" alt="demo" width="400">
 
@@ -41,7 +41,7 @@ Landing page de um e-commerce.
 
 [Detalhes no repositório](https://github.com/andreLTMoraes/garagem1973admin)
 
-<div style="height: 80px"></div>
+<p>&nbsp;</p><p>&nbsp;</p>
 
 <img src="https://i.ibb.co/6ryD0gL/banner.png" alt="demo" width="400">
 
@@ -51,7 +51,7 @@ Reproduzir site da UPMedal utilizado VTEX IO.
 
 [Detalhes no repositório](https://github.com/andreLTMoraes/DesafioVTEX)
 
-<div style="height: 80px"></div>
+<p>&nbsp;</p><p>&nbsp;</p>
 
 ## Serviço customizado VTEX
 
@@ -59,7 +59,7 @@ Serviço criado com Node.js e GraphQL para integração VTEX - AWS.
 
 [Detalhes no repositório](https://github.com/andreLTMoraes/Lead-Custom-Service-VTEX)
 
-<div style="height: 80px"></div>
+<p>&nbsp;</p><p>&nbsp;</p>
 
 ## Desafio Final
 
@@ -67,7 +67,7 @@ Reproduzir a temática da ACCT, integração VTEX-AWS para lead e acompanhamento
 
 [Detalhes no repositório](https://github.com/victorhgadioli/hiringcoders2021-finalChallenge-main)
 
-<div style="height: 80px"></div>
+<p>&nbsp;</p><p>&nbsp;</p>
 
 ---
 Um muito obrigado à VTEX, à Gama Academy, aos demais patrocinadores (We.Digi, ACCT, Whirlpool, CoreBiz e AWS), a todos que fizeram o evento acontecer, a toda comunidade HiringCoders e as maravilhosas pessoas que formaram a equipe a qual fiz parte no desafio final.
